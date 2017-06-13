@@ -4,3 +4,13 @@ section img {
     margin: 40px 20px 20px 0;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
 }
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+    color: green;
+    text-shadow: 2px 2px 2px red;
+}
